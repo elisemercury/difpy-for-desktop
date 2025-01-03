@@ -20,7 +20,8 @@
 1. [What is difPy for Desktop?](https://github.com/elisemercury/difPy-for-desktop-dev#what-is-difpy-for-desktop)
 2. [Download](https://github.com/elisemercury/difPy-for-desktop-dev#download)
 3. [User Guide](https://github.com/elisemercury/difPy-for-desktop-dev#user-guide)
-4. [Support difPy](https://github.com/elisemercury/difPy-for-desktop-dev#support-difpy)
+4. [User Guide](https://github.com/elisemercury/difPy-for-desktop-dev#give-feedback-report-bug)
+5. [Support difPy](https://github.com/elisemercury/difPy-for-desktop-dev#support-difpy)
 
 -------
 
@@ -39,6 +40,12 @@ Currently, access to the difPy for Desktop app is **restricted** to beta testers
 ## User Guide
 
 The user guide is available in [our documentation](https://difpy.readthedocs.io/en/latest/resources/desktop.html).
+
+## Give Feedback / Report Bug
+
+🐞 Did you encounter an **issue** with the difPy desktop app? Please report it [here](https://go.difpy.app/desktop-bug).
+
+🗨️ Do you have feedback about the difPy desktop app? Share your feedback with us [here](https://go.difpy.app/desktop-feedback).
 
 ## Support difPy
 

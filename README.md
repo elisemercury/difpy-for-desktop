@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="app\static\logos\logo_desktop.png" width="300" title="Example Output: Duplicate Image Finder">
+  <img src="static\logos\logo_desktop.png" width="300" title="Example Output: Duplicate Image Finder">
 </p>
 
 # difPy for Desktop

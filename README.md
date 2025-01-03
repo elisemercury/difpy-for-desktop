@@ -20,7 +20,7 @@
 1. [What is difPy for Desktop?](https://github.com/elisemercury/difPy-for-desktop-dev#what-is-difpy-for-desktop)
 2. [Download](https://github.com/elisemercury/difPy-for-desktop-dev#download)
 3. [User Guide](https://github.com/elisemercury/difPy-for-desktop-dev#user-guide)
-4. [User Guide](https://github.com/elisemercury/difPy-for-desktop-dev#give-feedback-report-bug)
+4. [Give Feedback / Report Bug](https://github.com/elisemercury/difPy-for-desktop-dev#give-feedback--report-bug)
 5. [Support difPy](https://github.com/elisemercury/difPy-for-desktop-dev#support-difpy)
 
 -------

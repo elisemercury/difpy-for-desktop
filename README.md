@@ -45,7 +45,7 @@ The user guide is available in [our documentation](https://difpy.readthedocs.io/
 
 🐞 Did you encounter an **issue** with the difPy desktop app? Please report it [here](https://go.difpy.app/desktop-bug).
 
-🗨️ Do you have feedback about the difPy desktop app? Share your feedback with us [here](https://go.difpy.app/desktop-feedback).
+🗨️ Do you have **feedback** about the difPy desktop app? Share your feedback with us [here](https://go.difpy.app/desktop-feedback).
 
 ## Support difPy
 

@@ -17,11 +17,11 @@
 > ℹ️ difPy for Desktop is the official desktop version of the [difPy Python package](https://github.com/elisemercury/Duplicate-Image-Finder).
 
 ## Table of Contents
-1. [What is difPy for Desktop?](https://github.com/elisemercury/difPy-for-desktop-dev#what-is-difpy-for-desktop)
-2. [Download](https://github.com/elisemercury/difPy-for-desktop-dev#download)
-3. [User Guide](https://github.com/elisemercury/difPy-for-desktop-dev#user-guide)
-4. [Give Feedback / Report Bug](https://github.com/elisemercury/difPy-for-desktop-dev#give-feedback--report-bug)
-5. [Support difPy](https://github.com/elisemercury/difPy-for-desktop-dev#support-difpy)
+1. [What is difPy for Desktop?](https://github.com/elisemercury/difPy-for-desktop#what-is-difpy-for-desktop)
+2. [Download](https://github.com/elisemercury/difPy-for-desktop#download)
+3. [User Guide](https://github.com/elisemercury/difPy-for-desktop#user-guide)
+4. [Give Feedback / Report Bug](https://github.com/elisemercury/difPy-for-desktop#give-feedback--report-bug)
+5. [Support difPy](https://github.com/elisemercury/difPy-for-desktop#support-difpy)
 
 -------
 

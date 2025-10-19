@@ -33,9 +33,7 @@ Unlike most deduplication software, difPy does **not** compare images based on t
 
 ## Download
 
-Currently, access to the difPy for Desktop app is **restricted** to beta testers only.
-
-> ✨🚀 [Join the difPy for Desktop beta tester program](https://go.difpy.app/desktop-beta-form) and be among to first to test the difPy desktop app! 
+✨🚀 [difPy for Desktop](https://go.difpy.app/desktop) is now **available for download** in the [Microsoft Store](https://go.difpy.app/desktop)!
 
 ## User Guide
 
